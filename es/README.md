@@ -1,4 +1,4 @@
-![](/en/Images/Icons/balloon_thought.png) <img src="/en/Images/Icons/planning_design.png" width="200" height="200" />
+![](/Images/Icons/balloon_thought.png) <img src="/Images/Icons/planning_design.png" width="200" height="200" />
 ## The Open Science Training Handbook 
 
 This will be the Spanish version of the Open Science training handbook.
@@ -17,7 +17,7 @@ We welcome comments and feedback from everyone, irrespective of their expertise 
 
 Are you interested in running or attending trainings or webinars that make use of the Open Science Training Handbook? Get in touch with us at [elearning@fosteropenscience.eu](mailto:elearning@fosteropenscience.eu) - we'd love to hear from you.
 
-## <img src="/en/Images/Icons/research_group.png" width="150" height="150" />
+## <img src="/Images/Icons/research_group.png" width="150" height="150" />
 
 ## How to refer to the handbook
 
@@ -31,7 +31,7 @@ Please consider citing the handbook when using the content. To cite the book, we
 
 Learn more about the authors and the book sprint facilitators, their experiences and inspiration, as well as their affiliation, contact information, Twitter and ORCID profiles, in the [Handbook's last chapter](./08AboutTheAuthorsAndFacilitators).
 
-## <img src="/en/Images/Icons/heart.png" width="150" height="150" />
+## <img src="/Images/Icons/heart.png" width="150" height="150" />
 
 ## Thank you to
 
