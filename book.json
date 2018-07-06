@@ -2,10 +2,10 @@
 {
   "gitbook": "3.x.x",
   "root": "./",
-  "plugins": ["edit-link", "github", "advanced-emoji@0.2.1"],
+  "plugins": ["edit-link", "github", "advanced-emoji@0.2.1", "language-picker"],
   "pluginsConfig": {
     "edit-link": {
-      "base": "https://github.com/njahn82/Open-Science-Training-Handbook/",
+      "base": "https://github.com/njahn82/Open-Science-Training-Handbook/tree/master/",
       "label": "Edit This Page"
     },
     "github": {
