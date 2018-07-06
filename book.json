@@ -1,0 +1,21 @@
+
+{
+  "gitbook": "3.x.x",
+  "root": "./",
+  "plugins": ["edit-link", "github", "advanced-emoji@0.2.1"],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/njahn82/Open-Science-Training-Handbook/",
+      "label": "Edit This Page"
+    },
+    "github": {
+      "url": "https://github.com/njahn82/Open-Science-Training-Handbook/"
+    }
+  },
+  "links": {
+    "sharing": {
+      "facebook": false,
+      "twitter": false
+    }
+  }
+}
